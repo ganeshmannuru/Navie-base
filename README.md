@@ -1,0 +1,2 @@
+# Navie-base
+Naive bayes
